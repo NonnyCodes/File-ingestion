@@ -1,0 +1,15 @@
+columns:
+- Employee_ID
+- Age
+- Gender
+- Years_At_Company
+- Last_Promotion
+- Salary
+- Ethnicity
+- Department
+- Number_of_Projects
+- Work_Life_Balance_Score
+- Job_Satisfaction_Score
+- left
+file_name: employee_churn_large_2gb.csv
+separator: ','
