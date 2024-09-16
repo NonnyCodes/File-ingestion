@@ -26,7 +26,7 @@ YAML schema file created as 'schema.yml'
 Column validation passed
 
 
-File written in pipe-separated format and compressed as 'employee_churn_large_pipe.gz'
+File written in pipe-separated format and compressed 
 
 
 FILE SUMMARY
