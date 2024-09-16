@@ -12,13 +12,9 @@ STEPS:
 
 
 different methods of file reading was done.
-
 Dask read time: 0.06 seconds. it was fast because it dosent load everything into memory immediately.
-
 Modin read time: 208.17 seconds.
-
 pandas kept crashing due to the large file size and thats because it loads the entire dataset into memory.
-
 Pandas (with chunking) read time: 72.63 seconds.
 
 
@@ -34,9 +30,6 @@ File written in pipe-separated format and compressed as 'employee_churn_large_pi
 
 
 FILE SUMMARY
-
 Total number of rows :45,000,000
-
 total number of columns: 12
-
 file size: 2.12GB
